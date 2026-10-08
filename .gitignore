@@ -4,7 +4,7 @@ dist/
 server/.env
 *.log
 .DS_Store
-
+android/keystore.properties
 # Android signing secrets
 *.jks
 *.keystore
