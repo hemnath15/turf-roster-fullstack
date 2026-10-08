@@ -1,0 +1,1 @@
+PWA assets can be added later. The app is responsive and install-ready once manifest/service-worker are added.
